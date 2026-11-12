@@ -28,4 +28,4 @@ Coming soon!
 - [ ] Build my first Skill
 - [ ] Call my first AI model
 - [ ] Build my first Agent
-- [ ] Deploy my Agent to the cloud# my-first-ai-agent
+- [ ] Deploy my Agent to the cloud
